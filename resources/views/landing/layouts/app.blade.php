@@ -181,7 +181,7 @@
                     <strong class="font-24">Acerca al cliente</strong>
                 </span>
                 <div class="text-white">
-                    <a href="/preguntasfrec" style="color: white"><span class="pointer font-24"> Preguntas Frecuentes</span></a>
+                    <a href="./preguntasfrec" style="color: white"><span class="pointer font-24"> Preguntas Frecuentes</span></a>
                 </div>
                 <div class="text-white">
                     <span data-bs-toggle="modal" data-bs-target="#quienesSomos" class="pointer font-24"> Qui&eacute;nes somos? </span>

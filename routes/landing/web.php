@@ -31,3 +31,8 @@ Route::get('email', function(){
 Route::get('test', function(){
     return view('test');
 });
+
+/* Rutas para Clientes */
+Route::GET('/cliente', function(){
+    return view('landing.clientes.cliente');
+})->name('cliente');
